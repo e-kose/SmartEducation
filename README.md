@@ -44,7 +44,8 @@ cd SmartEducation
 npm install
 npm run start:dev
 ```
-```
+
+```plaintext
 src/
 ├── auth/           # Kimlik doğrulama işlemleri
 ├── user/           # Kullanıcı CRUD işlemleri
