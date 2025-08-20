@@ -14,7 +14,7 @@
 - 🛡️ Rol tabanlı erişim kontrolü (RBAC)
 - 🔒 JWT ile güvenli oturum yönetimi
 - 🧩 Modüler yapı (her özellik kendi modülünde)
-- 📁 ORM (TypeORM) ile veritabanı yönetimi
+- 📁 Mongoose ile veritabanı yönetimi
 
 ---       
 
