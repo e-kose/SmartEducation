@@ -1,6 +1,6 @@
 ## 📚 SmartEducation
 
-**SmartEducation**, modern eğitim platformları için geliştirilen, modüler ve ölçeklenebilir bir **öğrenci ve kurs yönetim sistemidir**. NestJS altyapısı kullanılarak TypeScript ile yazılmıştır.
+**SmartEducation**, modern eğitim platformları için geliştirilen, modüler ve ölçeklenebilir bir **öğrenci ve kurs yönetim sistemidir**. Express altyapısı kullanılarak TypeScript ile yazılmıştır.
 
 > ⚠️ **Not:** Bu proje hâlâ geliştirilmektedir. Yeni özellikler eklenmekte ve sistem iyileştirilmektedir. Dökümantasyon ve kod yapısı zamanla güncellenebilir.
 
@@ -16,18 +16,7 @@
 - 🧩 Modüler yapı (her özellik kendi modülünde)
 - 📁 ORM (TypeORM) ile veritabanı yönetimi
 
----
-
-## 🧰 Kullanılan Teknolojiler
-
-| Teknoloji     | Açıklama                     |
-|--------------|------------------------------|
-| NestJS        | Uygulama çatısı (framework) |
-| TypeScript    | Güvenli JavaScript          |
-| PostgreSQL    | Veritabanı                   |
-| TypeORM       | ORM çözümü                   |
-| JWT           | Kimlik doğrulama            |
-| Bcrypt        | Şifreleme                    |
+---       
 
 ---
 
